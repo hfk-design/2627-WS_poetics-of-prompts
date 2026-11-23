@@ -1,6 +1,6 @@
 → [DE](README_de.md)
 
-# The Poetics of the Prompts – *A digital literary magazine*
+# The Poetics of the Prompts – _A digital literary magazine_
 
 How are artificial neural networks changing the way we write? Where do these algorithmic voices come from? And is there such a thing as the poetics of prompts?
 
@@ -12,12 +12,12 @@ It is time for a new narrative, countering the hype that primarily serves tech c
 
 The digital publication is being created from a collection of literary texts in various formats. Working in small groups, participants will design editorials for 1–3 texts each, tailored for the screen, and subsequently adapt them for the web (using vibe coding, amongst other tools). There will also be sessions on AI literacy.
 
-*The title "The Poetics of the Prompts" was coined by Jenifer Becker and Josefine Soppa during a reading on the topic of AI-assisted writing practices held in June 2026 at Burg Hülshoff.*
+_The title "The Poetics of the Prompts" was coined by Jenifer Becker and Josefine Soppa during a reading on the topic of AI-assisted writing practices held in June 2026 at Burg Hülshoff._
 
 ## Course Info
 
-- **Instructors:** Prof. Katharina Nejdl, Lukas Siemoneit
-- **Guest:** Jenifer Becker (Workshop, 8.12.)
+- **Instructors:** Prof. Katharina Nejdl (KN), Lukas Siemoneit (LS)
+- **Guest:** Jenifer Becker (JB)
 - **Event type:** Creative exercise (ID.BA.GP1-4.13)
 - **Credits:** 9 CP (225 hours' workload; 25 hours per credit point, including self-study time)
 - **Language:** German – suitable for English-speaking students
@@ -29,29 +29,51 @@ The digital publication is being created from a collection of literary texts in 
 
 In small groups, you design editorials for 1–3 literary texts each, tailored for the screen. The editorials are then translated into web pages (using vibe coding, amongst other tools) and combined into one shared digital literary magazine.
 
-**Deliverables:** design concept, web implementation, documentation of your process (including your use of AI tools).
+**Deliverables:** design concept, documentation.
+
+## Design System
+
+To create a unified digital publication from the various texts, we will decide on a shared design system with a predefined color scheme and fonts at the beginning.
+
+→ [**Design System**](design-system.md)
+
+## Collaboration & Texts
+
+The magazine is built from **10+ texts that emerged from an AI-assisted writing practice**. Some of them were created in the context of the AI Lab of the Literaturinstitut Hildesheim. Each group takes on 1–3 of these texts and designs and codes the editorials for them.
+
+→ [**The texts**](texts.md)
+
+### Jenifer Becker
+
+[Jenifer Becker](https://jeniferbecker.com/) (b. 1988) is an author and literary and cultural scholar based in Berlin. Her work deals with the ambivalences of digital cultures. She completed her doctorate at the Literaturinstitut Hildesheim in 2021, where she has been [teaching](https://www.uni-hildesheim.de/literaturinstitut/jenifer-becker/) since 2015. In current artistic-scholarly projects, she researches the influence of generative AI on writing processes. Her debut novel [_Zeiten der Langeweile_](https://www.hanser-literaturverlage.de/buch/jenifer-becker-zeiten-der-langeweile-9783446278042-t-4017) was published by Hanser Berlin in 2023.
+
+### Lukas Siemoneit
+
+Lukas Siemoneit (he/him) is based in Hamburg, Germany and works as a freelance graphic designer, web developer and artist.  
+→ [lsiemoneit.de](https://lsiemoneit.de/)
 
 ## Dates & Times
 
-*Block B | KW 49–52 and KW 2–4 | 10:00–17:00*
-Winter break: 23.12.2026 – 11.01.2027 (no sessions).
+_Block B | KW 49–52 and KW 2–4 | 10:00–17:00_
 
-| Day | Date   | Time        | Info |
-|-----|--------|-------------|------|
-| Tue | 1.12.  | 10:00–17:00 | **KICK-OFF**<br>Introduction to the course and the text collection. First input on AI literacy. Forming groups and assigning texts. |
-| Thu | 3.12.  | 10:00–17:00 | **READING & CONTEXT**<br>Close reading of the texts. Research on references, moodboards, first thoughts on form and tone. |
-| Tue | 8.12.  | 10:00–17:00 | **WORKSHOP JENIFER BECKER**<br>Workshop on AI-assisted writing practices and the texts of the magazine. |
-| Thu | 10.12. | 10:00–17:00 | **CONCEPT**<br>Developing the editorial concept per group: typography, layout, interaction. Consultations. |
-| Tue | 15.12. | 10:00–17:00 | **DESIGN**<br>Designing the editorials for the screen. Consultations. |
-| Thu | 17.12. | 10:00–17:00 | **DESIGN & AI LITERACY**<br>Design continues. Input on AI literacy: translating visuals and code into "natural language". |
-| Tue | 22.12. | 10:00–17:00 | **DESIGN REVIEW**<br>Pin-up of the design state and shared feedback. Planning the winter break. |
-| –   | 23.12.–11.01. | –   | **WINTER BREAK / INDEPENDENT WORK**<br>Prepare your interim presentation. |
-| Tue | 12.1.  | 10:00–17:00 | **INTERIM PRESENTATION**<br>Each group presents concept and design state. Feedback. |
-| Thu | 14.1.  | 10:00–17:00 | **WEB IMPLEMENTATION I**<br>Feedback integration. Setting up the shared magazine structure. Introduction to vibe coding workflows. |
-| Tue | 19.1.  | 10:00–17:00 | **WEB IMPLEMENTATION II**<br>Coding together. Consultations. |
-| Thu | 21.1.  | 10:00–17:00 | **WEB IMPLEMENTATION III**<br>Coding together. Merging the editorials into the magazine. |
-| Tue | 26.1.  | 10:00–17:00 | **FINISHING & DOCUMENTATION**<br>Final adjustments, testing, documentation, preparing the presentation. |
-| Thu | 28.1.  | 10:00–17:00 | **FINAL PRESENTATION**<br>Presentation of the digital literary magazine. |
+**KN** Katharina Nejdl · **LS** Lukas Siemoneit · **JB** Jenifer Becker
+
+| #   | Day | Date   | Who      | Info                                                                                                                                                                                                 |
+| --- | --- | ------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Tue | 1.12.  | KN       | **KICK-OFF**<br>Working with the texts<br>Critical AI literacy                                                                                                                                       |
+| 1   | Thu | 3.12.  | KN       | Working with the texts<br>Typography basics                                                                                                                                                          |
+| 2   | Tue | 8.12.  | LS       | Digital editorial intro<br>Use of AI community guidelines (AI support only from #4, incl. discussion, see [example](https://github.com/design-hfkbremen/S26_text-type-tools/blob/main/use-of-ai.md)) |
+| 2   | Thu | 10.12. | KN / JB  | **WORKSHOP JENIFER BECKER**<br>Consultations                                                                                                                                                         |
+| 3   | Tue | 15.12. | LS       | Digital editorial intro                                                                                                                                                                              |
+| 3   | Thu | 17.12. | LS       | Digital editorial intro                                                                                                                                                                              |
+| 4   | Tue | 22.12. | KN       | Consultations\*                                                                                                                                                                                      |
+| –   | –   | –      | –        | **WINTER BREAK**                                                                                                                                                                                     |
+| 5   | Tue | 12.1.  | KN / LS? | **INTERIM PRESENTATION** (tbc)                                                                                                                                                                       |
+| 5   | Thu | 14.1.  | KN       | Consultations                                                                                                                                                                                        |
+| 6   | Tue | 19.1.  | KN       | Consultations                                                                                                                                                                                        |
+| 6   | Thu | 21.1.  | KN       | Consultations                                                                                                                                                                                        |
+| 7   | Tue | 26.1.  | KN       | Consultations                                                                                                                                                                                        |
+| 7   | Thu | 28.1.  | KN / LS? | **FINAL PRESENTATIONS**                                                                                                                                                                              |
 
 ## Preparation for the Kick-Off (Tue 1.12.)
 
